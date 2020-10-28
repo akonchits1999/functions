@@ -1,3 +1,8 @@
+/*let are the same like var but there is diference between:
+var is function scoped and let is block scoped.*/
+//const - for const variables(we can't change this variable in code)
+
+
 function sum(a,b){
 
     return a+b;
